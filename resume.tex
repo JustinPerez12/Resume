@@ -1,0 +1,107 @@
+%!TEX TS-program = xelatex
+\documentclass[]{friggeri-cv}
+\usepackage{afterpage}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{xcolor}
+\hypersetup{
+    pdftitle={},
+    pdfauthor={},
+    pdfsubject={},
+    pdfkeywords={},
+    colorlinks=false,       % no lik border color
+   allbordercolors=white    % white border color for all
+}
+\addbibresource{bibliography.bib}
+\RequirePackage{xcolor}
+\definecolor{pblue}{HTML}{0395DE}
+
+\begin{document}
+\header{Xander}{Montgomery}
+      {(Full Stack) Senior Software Engineer}
+      
+% Fake text to add separator      
+\fcolorbox{white}{gray}{\parbox{\dimexpr\textwidth-2\fboxsep-2\fboxrule}{%
+.....
+}}
+
+% In the aside, each new line forces a line break
+\begin{aside}
+  \section{Tel \& discord}
+    +3176069492
+    recursiverighthook7025
+    ~
+  \section{Mail}
+    \href{mailto:alexandermontgomery95@gmail.com}{\textbf{personal}}
+    ~
+  \section{Web \& Git}
+    \href{http://www.ultimaengineering.io}{ultimaengineering.io}
+    \href{https://github.com/firefox7025}{github.com/firefox7025}
+  \section{Favorite Stacks}
+    Rust, Go, Java, Javascript, Typescript, Python
+    \section{Favorite Frameworks}
+    Spring, React, Warp, Hyper, Prisma, Pandas, Angular, Material UI, Gin
+\end{aside}
+
+\section{Experience}
+\begin{entrylist}
+	  \entry
+	{12/2022 - Now}
+	{Cox Automotive, Senior Software Engineer}
+	{Carmel, IN}
+	{ Operated as Tech Lead for team of 9 software engineers. Created custom multi-cloud solutions that increased security profiles and awareness. Created multi-enterprise wide inventory solutions spanning multiple business units. Created an all in one security tool that performed SAST, SCA, and Dynamic scans for over 20 different stacks. Maintained and developed 139 applications with Stacks in C\#, Java, Go, Python, and Javascript / Typescript over 2 years.   }
+  \entry
+    {02/17 - 12/2022}
+    {NextGear Capital, Senior Software Engineer}
+    {Carmel, IN}
+    {Responsible for feature work on hundreds of microservices. Created a modernized OCR pipeline, using AI deeplearning. Maintained a financial platform processing vehicle loans. Maintained high availability title management platform. Created cloud first solutions for application running in AWS. Assisted in the design and maturity of CI-CD solutions.  }
+  \entry
+    {01/18 - 01/2020}
+    {Freelance Developer \& Consultant}
+    {Noblesville, IN}
+    {High variance per customer ranging from WordPress CRM sites, to custom designed e-commerce solutions deployed to cloud infrastructure. }
+    \entry
+    {12/2018 - 06/2018}
+    {Chart Biopsy LLC, Software Engineer}
+    {Indianapolis, IN}
+    {Greenfield an entirely new EMR system with direct integrations with EPIC EMR while maintaining PHI and PII compliance. AWS integration's with ECS, Fargate and lambda }
+    \entry
+    {06/2016 - 04/2017}
+    {Image Matters LLC (DoD Contractor, Software Engineer)}
+    {Leesburg, VA}
+    {Normalize, sort, and generate metadata using web-semantics and AI, for use by an ecosystem within the DoD. Systems were designed for highly-availability and efficient processing. Kafka Messaging, Mongo, and ElasticSearch }
+    \entry
+    {01/2015 - 06/2016}
+    {Harmony Healthcare Software Engineer}
+    {SouthBend, IN}
+    {Primary developer responsible for the auto-matching of legacy medical databases, and emrs into newer medical systems. Pentaho/SSIS integration}
+\end{entrylist}
+
+\section{Education}
+\begin{entrylist}
+  \entry
+    {2013 - 2016}
+    {Bachelor's Degree in Software Engineering}
+    {Purdue}
+    {}
+  \entry
+   {2023 - 2024}
+   {Currently pursuing Masters Degree in Software Engineering}
+   {Purdue}
+   {}
+\end{entrylist}
+
+\section{Certifications}
+\begin{entrylist}
+  \entry
+    {04/2019}
+    {Intro to Computer Science}
+    {Udacity. E-learning}
+    {\emph{Building a Python Search Engine}}
+     \entry
+    {02/2018}
+    {Certified Solutions Architect – Professional }
+    {AWS}
+    {\emph{Effectively demonstrate knowledge of how to architect and deploy secure and robust applications on AWS technologies}}
+\end{entrylist}
+\end{document}
