@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.21)  22 OCT 2024 12:29
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.21)  22 OCT 2024 12:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./resume_cv.tex
-(resume_cv.tex
+**./Justin_Perez_Resume.tex
+(Justin_Perez_Resume.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (awesome-cv.cls
@@ -841,8 +841,9 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 ))
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 72.
- (resume_cv.aux)
-\openout1 = `resume_cv.aux'.
+
+No file Justin_Perez_Resume.aux.
+\openout1 = `Justin_Perez_Resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
 LaTeX Font Info:    ... okay on input line 72.
@@ -864,7 +865,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
 LaTeX Font Info:    ... okay on input line 72.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
 LaTeX Font Info:    ... okay on input line 72.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -942,9 +942,11 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
 t line 72.
 Package hyperref Info: Link coloring OFF on input line 72.
-(resume_cv.out) (resume_cv.out)
 \@outlinefile=\write4
-\openout4 = `resume_cv.out'.
+\openout4 = `Justin_Perez_Resume.out'.
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
 
 \headertextwidth=\skip83
 \headerphotowidth=\skip84
@@ -1006,21 +1008,28 @@ Overfull \hbox (28.70247pt too wide) in alignment at lines 11--26
 ) (cv-sections/experience.tex) (cv-sections/extracurricular.tex) [1
 
 ]
-(resume_cv.aux)
+(Justin_Perez_Resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-Package rerunfilecheck Info: File `resume_cv.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+Package rerunfilecheck Warning: File `Justin_Perez_Resume.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Justin_Perez_Resume.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32259 strings out of 409617
- 647401 string characters out of 5774012
+ 32251 strings out of 409617
+ 647391 string characters out of 5774012
  1953191 words of memory out of 5000000
- 53872 multiletter control sequences out of 15000+600000
+ 53870 multiletter control sequences out of 15000+600000
  560721 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 116i,11n,121p,549b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 116i,11n,121p,559b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on resume_cv.pdf (1 page).
+Output written on Justin_Perez_Resume.pdf (1 page).
