@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.10.21)  14 JAN 2025 14:48
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.12)  12 FEB 2025 14:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -36,7 +36,7 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \ar@cellbox=\box52
 )
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
-Package: enumitem 2019/06/20 v3.9 Customized lists
+Package: enumitem 2025/02/06 v3.11 Customized lists
 \enitkv@toks@=\toks18
 \labelindent=\skip52
 \enit@outerparindent=\dimen143
@@ -90,17 +90,23 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
+Package: fancyhdr 2025/01/07 v5.1.1 Extensive control of page headers and foote
 rs
 \f@nch@headwidth=\skip67
-\f@nch@O@elh=\skip68
-\f@nch@O@erh=\skip69
-\f@nch@O@olh=\skip70
-\f@nch@O@orh=\skip71
-\f@nch@O@elf=\skip72
-\f@nch@O@erf=\skip73
-\f@nch@O@olf=\skip74
-\f@nch@O@orf=\skip75
+\f@nch@offset@elh=\skip68
+\f@nch@offset@erh=\skip69
+\f@nch@offset@olh=\skip70
+\f@nch@offset@orh=\skip71
+\f@nch@offset@elf=\skip72
+\f@nch@offset@erf=\skip73
+\f@nch@offset@olf=\skip74
+\f@nch@offset@orf=\skip75
+\f@nch@height=\skip76
+\f@nch@footalignment=\skip77
+\f@nch@widthL=\skip78
+\f@nch@widthC=\skip79
+\f@nch@widthR=\skip80
+\@temptokenb=\toks22
 )
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
@@ -132,12 +138,12 @@ Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bcount=\count197
 \calc@Adimen=\dimen152
 \calc@Bdimen=\dimen153
-\calc@Askip=\skip76
-\calc@Bskip=\skip77
+\calc@Askip=\skip81
+\calc@Bskip=\skip82
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count198
-\calc@Cskip=\skip78
+\calc@Cskip=\skip83
 )
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
@@ -216,7 +222,7 @@ LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip79
+\@mathmargin=\skip84
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
@@ -224,7 +230,7 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks22
+\@emptytoks=\toks23
 \ex@=\dimen157
 ))
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
@@ -264,21 +270,21 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip16
 \c@parentequation=\count288
 \dspbrk@lvl=\count289
-\tag@help=\toks23
+\tag@help=\toks24
 \row@=\count290
 \column@=\count291
 \maxfields@=\count292
-\andhelp@=\toks24
+\andhelp@=\toks25
 \eqnshift@=\dimen160
 \alignsep@=\dimen161
 \tagshift@=\dimen162
 \tagwidth@=\dimen163
 \totwidth@=\dimen164
 \lineht@=\dimen165
-\@envbody=\toks25
-\multlinegap=\skip80
-\multlinetaggap=\skip81
-\mathdisplay@stack=\toks26
+\@envbody=\toks26
+\multlinegap=\skip85
+\multlinetaggap=\skip86
+\mathdisplay@stack=\toks27
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
@@ -303,8 +309,8 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks27
-\XKV@tempa@toks=\toks28
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
 )
 \XKV@depth=\count296
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -323,7 +329,7 @@ Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
 y
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common.tex
-\pgfutil@everybye=\toks29
+\pgfutil@everybye=\toks30
 \pgfutil@tempdima=\dimen166
 \pgfutil@tempdimb=\dimen167
 )
@@ -366,12 +372,12 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 .code.tex
-\pgfkeys@pathtoks=\toks30
-\pgfkeys@temptoks=\toks31
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
 
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 libraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks32
+\pgfkeys@tmptoks=\toks33
 ))
 \pgf@x=\dimen170
 \pgf@y=\dimen171
@@ -389,9 +395,9 @@ libraryfiltered.code.tex
 \c@pgf@countb=\count298
 \c@pgf@countc=\count299
 \c@pgf@countd=\count300
-\t@pgf@toka=\toks33
-\t@pgf@tokb=\toks34
-\t@pgf@tokc=\toks35
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
 \pgf@sys@id@count=\count301
 
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
@@ -437,9 +443,9 @@ r.code.tex
 \pgfmath@dimen=\dimen180
 \pgfmath@count=\count305
 \pgfmath@box=\box58
-\pgfmath@toks=\toks36
-\pgfmath@stack@operand=\toks37
-\pgfmath@stack@operation=\toks38
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
 )
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.code.tex)
@@ -587,8 +593,8 @@ Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 ))
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks39
-\verbatim@line=\toks40
+\every@verbatim=\toks40
+\verbatim@line=\toks41
 \verbatim@in@stream=\read3
 )
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
@@ -632,8 +638,8 @@ code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen264
 \pgffor@skip=\dimen265
-\pgffor@stack=\toks41
-\pgffor@toks=\toks42
+\pgffor@stack=\toks42
+\pgffor@toks=\toks43
 ))
 (C:\Users\justi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z\tikz.code.tex
@@ -837,7 +843,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip82
+\Hy@SectionHShift=\skip87
 ))
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 70.
@@ -946,8 +952,8 @@ Package hyperref Info: Link coloring OFF on input line 70.
 \@outlinefile=\write4
 \openout4 = `Justin_Perez_Resume.out'.
 
-\headertextwidth=\skip83
-\headerphotowidth=\skip84
+\headertextwidth=\skip88
+\headerphotowidth=\skip89
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 10.95116pt on input line 73.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -1015,10 +1021,10 @@ Package rerunfilecheck Info: File `Justin_Perez_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32256 strings out of 409617
- 647477 string characters out of 5774012
+ 32390 strings out of 409617
+ 650716 string characters out of 5774013
  1955191 words of memory out of 5000000
- 53871 multiletter control sequences out of 15000+600000
+ 54005 multiletter control sequences out of 15000+600000
  560705 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  116i,11n,121p,559b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
